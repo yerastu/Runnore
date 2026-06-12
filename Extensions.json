@@ -1,0 +1,15 @@
+[
+    {
+        "id": "luau-prettier-pro",
+        "name": "Luau Prettier Pro",
+        "author": "RobloxOSS",
+        "version": "1.0.1",
+        "description": "Auto-formats your Luau code so it doesn't look like trash. Absolute W for clean code.",
+        "thumbnails": [
+            "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=100&h=60&fit=crop"
+        ],
+        "verified": false,
+        "dataPath": "ExtensionsData/RobloxOSS/luau-prettier-pro.json",
+        "publishedAt": "2026-06-12T20:52:56.182Z"
+    }
+]
