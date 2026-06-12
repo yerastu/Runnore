@@ -4,7 +4,7 @@
         "name": "Splitter",
         "author": "Yera",
         "version": "1.0.0",
-        "description": "Official extension to split editor views and enable advanced script section parsing natively within Runnore.",
+        "description": "Official extension to split editor views and enable script section parsing natively within Runnore.",
         "thumbnails": [
             "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/Splitter.png"
         ],
@@ -17,7 +17,7 @@
         "name": "Acrylic Glass 11",
         "author": "Yera",
         "version": "1.0.0",
-        "description": "Transform Runnore into a sleek, semi-transparent Acrylic Glass experience with perfectly matched, high-contrast syntax highlighting. Fully toggleable via Settings.",
+        "description": "Make Runnore, semi-transparent Glass experience, high-contrast syntax highlighting. Fully toggleable via Settings.",
         "thumbnails": [
             "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/Acyr.png"
         ],
