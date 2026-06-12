@@ -1,0 +1,15 @@
+[
+    {
+        "id": "runnore-splitter",
+        "name": "Splitter",
+        "author": "Yera",
+        "version": "1.0.0",
+        "description": "Official extension to split editor views and enable advanced script section parsing natively within Runnore.",
+        "thumbnails": [
+            "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/Splitter.png"
+        ],
+        "verified": true,
+        "dataPath": "ExtensionsData/Yera/runnore-splitter.json",
+        "publishedAt": "2026-06-12T21:26:14.951Z"
+    }
+]
