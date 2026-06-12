@@ -19,7 +19,7 @@
         "version": "1.0.0",
         "description": "Transform Runnore into a sleek, semi-transparent Acrylic Glass experience with perfectly matched, high-contrast syntax highlighting. Fully toggleable via Settings.",
         "thumbnails": [
-            "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/AcrylicGlass.png"
+            "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/Acyr.png"
         ],
         "verified": true,
         "dataPath": "ExtensionsData/Yera/acrylic-glass-11.json",
