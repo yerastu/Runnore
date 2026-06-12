@@ -1,7 +1,0 @@
-{
-    "id": "luau-prettier-pro",
-    "author": "RobloxOSS",
-    "version": "1.0.1",
-    "updatedAt": "2026-06-12T20:52:55.200Z",
-    "logic": "\n            // This is the raw logic the Runnore app will download and execute\n            module.exports = {\n                activate: function(editor) {\n                    console.log(\"Luau Prettier Activated!\");\n                    editor.addCommand(monaco.KeyMod.CtrlCmd | monaco.KeyCode.KeyS, function() {\n                        const code = editor.getValue();\n                        // Format logic here...\n                        editor.setValue(code + \"\\n-- Formatted by Luau Prettier Pro\");\n                    });\n                },\n                deactivate: function() {\n                    console.log(\"Luau Prettier Deactivated\");\n                }\n            }\n        "
-}
