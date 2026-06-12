@@ -11,5 +11,18 @@
         "verified": true,
         "dataPath": "ExtensionsData/Yera/runnore-splitter.json",
         "publishedAt": "2026-06-12T21:26:14.951Z"
+    },
+    {
+        "id": "acrylic-glass-11",
+        "name": "Acrylic Glass 11",
+        "author": "Yera",
+        "version": "1.0.0",
+        "description": "Transform Runnore into a sleek, semi-transparent Acrylic Glass experience with perfectly matched, high-contrast syntax highlighting. Fully toggleable via Settings.",
+        "thumbnails": [
+            "https://raw.githubusercontent.com/yerastu/Runnore/refs/heads/main/AcrylicGlass.png"
+        ],
+        "verified": true,
+        "dataPath": "ExtensionsData/Yera/acrylic-glass-11.json",
+        "publishedAt": "2026-06-12T22:44:06.800Z"
     }
 ]
